@@ -57,6 +57,6 @@ button:disabled {
   }
 
   button {
-    box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.5);
   }
 }
