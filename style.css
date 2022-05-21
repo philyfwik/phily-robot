@@ -49,8 +49,11 @@ button:disabled {
 /* Media Query: Tabler or Smaller */
 @media screen and (max-width: 1000px) {
   .container {
+    background: url('./skater-robot.gif');
     background-size: 140%;
+    background-repeat: no-repeat;
     background-position: center center;
+    justify-content: center;
   }
 
   button {

@@ -7,7 +7,7 @@ const VoiceRSS={speech:function(e){this._validate(e),this._request(e)},_validate
 function test() {
   VoiceRSS.speech({
     key: 'c9c5bf3f7c9e41f7b920ebca706bd43f',
-    src: 'Hello, I am Phily!... Welcome to my page!',
+    src: 'Hello, I am Phily\'s robot!... Welcome to my page!',
     hl: 'en-us',
     v: 'Linda',
     r: 0, 
